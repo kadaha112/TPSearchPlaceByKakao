@@ -1,0 +1,2 @@
+com.google.firebase.analytics.ktx.FirebaseAnalyticsLegacyRegistrar
+com.google.firebase.analytics.ktx.LoggingKt

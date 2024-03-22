@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kakao.sdk.v2.user" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="33" />
+
+    <application>
+        <activity
+            android:name="com.kakao.sdk.user.ShippingAddressesHandlerActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/TransparentCompat" />
+    </application>
+
+</manifest>

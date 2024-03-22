@@ -1,0 +1,15 @@
+com.kakao.sdk.network.ApiCallback
+com.kakao.sdk.network.ApiCallback$Companion
+com.kakao.sdk.network.ApiFactory
+com.kakao.sdk.network.ApiFactory$appKeyInterceptor$2
+com.kakao.sdk.network.ApiFactory$kakaoAgentInterceptor$2
+com.kakao.sdk.network.ApiFactory$kapi$2
+com.kakao.sdk.network.ApiFactory$kapiNoLog$2
+com.kakao.sdk.network.ApiFactory$loggingInterceptor$2
+com.kakao.sdk.network.AppKeyInterceptor
+com.kakao.sdk.network.ExceptionWrapper
+com.kakao.sdk.network.ExceptionWrapperKt
+com.kakao.sdk.network.KakaoAgentInterceptor
+com.kakao.sdk.network.KakaoRetrofitConverterFactory
+com.kakao.sdk.network.UtilityKt
+com.kakao.sdk.v2.network.BuildConfig

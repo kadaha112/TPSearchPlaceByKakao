@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kakao.sdk.v2.common" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="33" />
+
+    <queries>
+        <package android:name="com.kakao.talk" />
+        <package android:name="com.kakao.talk.alpha" />
+        <package android:name="com.kakao.talk.sandbox" />
+        <package android:name="com.kakao.onetalk" />
+
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+
+            <category android:name="android.intent.category.BROWSABLE" />
+
+            <data android:scheme="https" />
+        </intent>
+    </queries>
+
+</manifest>

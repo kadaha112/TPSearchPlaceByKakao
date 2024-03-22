@@ -1,0 +1,88 @@
+com.kakao.vectormap
+attr duration
+attr endAlpha
+attr endRadius
+attr hideShapeAtStop
+attr interpolation
+attr mapApplyDpScale
+attr mapBadgeImage
+attr mapBadgeOffsetX
+attr mapBadgeOffsetY
+attr mapBadgeZOrder
+attr mapDistance
+attr mapIconAnchorX
+attr mapIconAnchorY
+attr mapIconEnableEnterTransition
+attr mapIconEnableExitTransition
+attr mapIconEnterTransition
+attr mapIconExitTransition
+attr mapIconImage
+attr mapLineColor
+attr mapLineWidth
+attr mapPadding
+attr mapPatternImage
+attr mapPinEnd
+attr mapPinStart
+attr mapPolygonColor
+attr mapStrokeColor
+attr mapStrokeWidth
+attr mapSymbolImage
+attr mapTextAspectRatio
+attr mapTextCharacterSpace
+attr mapTextColor
+attr mapTextEnableEnterTransition
+attr mapTextEnableExitTransition
+attr mapTextEnterTransition
+attr mapTextExitTransition
+attr mapTextFont
+attr mapTextGravity
+attr mapTextLineSpace
+attr mapTextSize
+attr mapTextStrokeColor
+attr mapTextStrokeWidth
+attr mapZoomLevel
+attr repeatCount
+attr startAlpha
+attr startRadius
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+id Bottom
+id Center
+id CenterHorizontal
+id CenterVertical
+id CubicIn
+id CubicInOut
+id CubicOut
+id Left
+id Linear
+id Right
+id Top
+id alpha
+id none
+id scale
+string app_name
+string cadastral_map
+string normal_map
+string overlay_aerial_photo
+string overlay_bicycle_road
+string overlay_cctv
+string overlay_hill_shading
+string overlay_hybrid
+string overlay_roadview_line
+string overlay_traffic_info
+string skyview
+string skyview_3d
+style LabelBadgeStyle
+style LabelStyle
+style LabelTextStyle
+style PolygonStyle
+style RouteLineStyle
+styleable AnimationAttr duration hideShapeAtStop interpolation repeatCount
+styleable CircleWaveAttr endAlpha endRadius startAlpha startRadius
+styleable LabelBadgeAttr mapBadgeImage mapBadgeOffsetX mapBadgeOffsetY mapBadgeZOrder
+styleable LabelIconAttr mapApplyDpScale mapIconAnchorX mapIconAnchorY mapIconEnableEnterTransition mapIconEnableExitTransition mapIconEnterTransition mapIconExitTransition mapIconImage mapPadding
+styleable LabelTextAttr mapTextAspectRatio mapTextCharacterSpace mapTextColor mapTextEnableEnterTransition mapTextEnableExitTransition mapTextEnterTransition mapTextExitTransition mapTextFont mapTextLineSpace mapTextSize mapTextStrokeColor mapTextStrokeWidth
+styleable MapAttr mapTextGravity mapZoomLevel
+styleable PolygonAttr mapPolygonColor
+styleable RouteLineAttr mapDistance mapLineColor mapLineWidth mapPatternImage mapPinEnd mapPinStart mapStrokeColor mapStrokeWidth mapSymbolImage
